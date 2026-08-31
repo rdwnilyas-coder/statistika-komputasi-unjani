@@ -146,18 +146,33 @@ Statistika/
 
 ## ☁️ Panduan Menjalankan di Google Colab
 
-Seluruh modul praktikum dapat dijalankan langsung di cloud browser melalui **Google Colab** tanpa perlu instalasi lingkungan lokal di komputer Anda:
+Seluruh 25 modul praktikum dapat dijalankan langsung di cloud browser melalui **Google Colab** tanpa perlu instalasi lokal di komputer Anda:
 
-### Cara 1: Akses Langsung 1-Klik (*Recommended*)
-1. Klik tombol **`Open In Colab`** pada tabel modul di atas untuk membuka notebook yang diinginkan.
-2. Di sel paling atas notebook pada Google Colab, tambahkan dan jalankan baris berikut untuk mengunduh dataset dan gambar ilustrasi dari repositori:
-   ```python
-   # Kloning repositori untuk mendapatkan dataset dan gambar pendukung
-   !git clone https://github.com/rdwnilyas-coder/statistika-komputasi-unjani.git
-   %cd statistika-komputasi-unjani/notebooks
-   !pip install -r ../requirements.txt
-   ```
-3. Jalankan sel kode praktikum secara berurutan (*Runtime -> Run all* atau `Ctrl + F9`).
+### 1. Membuka Notebook di Google Colab
+1. Klik logo/badge **`Open In Colab`** pada tabel modul di atas untuk langsung membuka modul praktikum yang diinginkan.
+
+### 2. Memuat Dataset Langsung via Direct GitHub Raw URL (*Recommended*)
+Pada Google Colab, Anda dapat langsung membaca dataset secara *live* dari GitHub tanpa perlu mengkloning repositori secara manual. Cukup arahkan target URL dataset ke tautan direct raw GitHub:
+```
+https://raw.githubusercontent.com/rdwnilyas-coder/statistika-komputasi-unjani/refs/heads/main/datasets/[nama_file.csv]
+```
+
+> 💡 **Praktis:** Pada setiap notebook praktikum (di sel *Data Ingestion*), telah disertakan **komentar bahasa Python** berisi link direct raw GitHub khusus untuk dataset modul tersebut. Anda cukup mengaktifkan/meng-uncomment baris komentar tersebut di Google Colab:
+
+```python
+# Contoh memuat dataset langsung di Google Colab via raw GitHub:
+url = "https://raw.githubusercontent.com/rdwnilyas-coder/statistika-komputasi-unjani/refs/heads/main/datasets/01_ecommerce_sales_eda.csv"
+df = pd.read_csv(url)
+```
+
+### 3. Opsi Alternatif: Kloning Repositori di Colab
+Jika Anda ingin mengunduh seluruh repositori beserta dataset dan gambar pendukung secara lokal di session Colab:
+```python
+# Jalankan di sel paling atas Google Colab:
+!git clone https://github.com/rdwnilyas-coder/statistika-komputasi-unjani.git
+%cd statistika-komputasi-unjani/notebooks
+!pip install -r ../requirements.txt
+```
 
 ---
 
