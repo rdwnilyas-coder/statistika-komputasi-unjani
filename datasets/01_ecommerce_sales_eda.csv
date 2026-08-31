@@ -1,151 +1,151 @@
-order_id,customer_age,gender,category,payment_method,quantity,price_per_unit_k,discount_pct,total_amount_k,rating_score,delivery_days
-ORD-1001,30,Female,Fashion,Credit Card,1,114.8,0,114.8,4,3
-ORD-1002,29,Female,Electronics,E-Wallet,1,466.6,20,373.28,3,5
-ORD-1003,26,Male,Books,Bank Transfer,3,63.4,0,190.2,5,4
-ORD-1004,39,Female,Fashion,Credit Card,5,113.1,0,565.5,4,3
-ORD-1005,28,Male,Books,E-Wallet,5,98.8,15,419.9,2,3
-ORD-1006,42,Female,Home & Living,Credit Card,3,234.5,10,633.15,5,3
-ORD-1007,41,Female,Groceries,COD,2,27.2,10,48.96,3,2
-ORD-1008,41,Male,Home & Living,Credit Card,2,201.8,10,363.24,5,4
-ORD-1009,25,Female,Electronics,Credit Card,3,339.4,30,712.74,3,3
-ORD-1010,37,Female,Fashion,COD,1,148.6,10,133.74,3,2
-ORD-1011,31,Female,Home & Living,COD,1,137.8,5,130.91,4,3
-ORD-1012,33,Male,Fashion,Credit Card,3,110.4,15,281.52,4,3
-ORD-1013,26,Male,Electronics,Bank Transfer,3,467.1,10,1261.17,2,2
-ORD-1014,35,Female,Home & Living,Credit Card,2,255.0,30,357.0,4,4
-ORD-1015,28,Male,Home & Living,E-Wallet,2,181.8,15,309.06,1,5
-ORD-1016,24,Female,Fashion,E-Wallet,1,108.9,25,81.68,4,3
-ORD-1017,44,Male,Fashion,COD,5,141.4,5,671.65,3,4
-ORD-1018,25,Male,Home & Living,Credit Card,3,139.9,10,377.73,4,4
-ORD-1019,27,Male,Electronics,Bank Transfer,1,443.7,20,354.96,3,3
-ORD-1020,35,Male,Fashion,E-Wallet,4,127.3,5,483.74,3,3
-ORD-1021,22,Female,Fashion,COD,3,123.4,5,351.69,2,2
-ORD-1022,25,Female,Books,E-Wallet,2,94.6,15,160.82,4,3
-ORD-1023,33,Male,Fashion,COD,1,106.3,5,100.98,3,3
-ORD-1024,50,Female,Home & Living,E-Wallet,1,295.1,0,295.1,5,3
-ORD-1025,34,Female,Books,Credit Card,4,74.6,0,298.4,3,4
-ORD-1026,32,Female,Groceries,COD,2,42.6,25,63.9,4,1
-ORD-1027,35,Male,Home & Living,E-Wallet,3,234.7,0,704.1,2,1
-ORD-1028,34,Male,Electronics,E-Wallet,4,488.4,30,1367.52,3,3
-ORD-1029,44,Male,Home & Living,E-Wallet,2,271.9,15,462.23,4,2
-ORD-1030,29,Female,Fashion,Bank Transfer,1,84.5,10,76.05,4,4
-ORD-1031,48,Male,Books,E-Wallet,1,63.5,5,60.32,4,4
-ORD-1032,37,Male,Fashion,Bank Transfer,1,85.2,10,76.68,4,4
-ORD-1033,43,Male,Home & Living,Bank Transfer,5,194.2,0,971.0,5,3
-ORD-1034,34,Male,Home & Living,Credit Card,1,137.1,5,130.24,4,2
-ORD-1035,37,Female,Electronics,E-Wallet,2,343.5,30,480.9,3,5
-ORD-1036,32,Female,Fashion,COD,2,116.2,0,232.4,5,3
-ORD-1037,30,Male,Groceries,Credit Card,2,39.0,0,78.0,3,5
-ORD-1038,23,Male,Groceries,Credit Card,2,39.8,20,63.68,5,2
-ORD-1039,22,Male,Fashion,Credit Card,5,143.2,30,501.2,3,2
-ORD-1040,34,Female,Books,Credit Card,1,87.4,30,61.18,1,2
-ORD-1041,26,Female,Groceries,Bank Transfer,3,46.4,30,97.44,3,4
-ORD-1042,32,Female,Groceries,E-Wallet,5,42.1,15,178.92,4,5
-ORD-1043,35,Male,Electronics,Bank Transfer,1,366.1,10,329.49,1,2
-ORD-1044,27,Female,Books,E-Wallet,1,70.6,25,52.95,4,3
-ORD-1045,18,Male,Groceries,COD,1,42.5,25,4500.0,5,2
-ORD-1046,23,Male,Groceries,Bank Transfer,2,37.0,20,59.2,2,5
-ORD-1047,18,Male,Home & Living,Bank Transfer,2,256.9,30,359.66,1,3
-ORD-1048,40,Female,Books,COD,2,90.4,30,126.56,4,4
-ORD-1049,28,Female,Electronics,Credit Card,2,372.7,5,708.13,5,3
-ORD-1050,33,Female,Home & Living,E-Wallet,2,249.4,25,374.1,4,2
-ORD-1051,26,Male,Electronics,COD,1,453.0,30,317.1,5,3
-ORD-1052,31,Male,Electronics,COD,1,314.9,20,251.92,4,3
-ORD-1053,48,Female,Home & Living,COD,4,167.5,25,502.5,5,1
-ORD-1054,36,Female,Home & Living,COD,2,196.9,10,354.42,3,3
-ORD-1055,23,Male,Fashion,Credit Card,1,174.4,25,130.8,3,3
-ORD-1056,40,Female,Home & Living,COD,2,214.0,30,299.6,4,4
-ORD-1057,26,Female,Books,E-Wallet,5,45.5,10,204.75,5,5
-ORD-1058,18,Female,Home & Living,Credit Card,2,191.7,15,325.89,4,4
-ORD-1059,28,Male,Books,Credit Card,8,65.5,20,419.2,1,2
-ORD-1060,38,Male,Electronics,COD,1,414.9,15,352.66,3,3
-ORD-1061,25,Female,Groceries,COD,1,47.9,0,47.9,4,3
-ORD-1062,29,Female,Fashion,E-Wallet,3,90.9,5,259.07,3,1
-ORD-1063,36,Male,Books,E-Wallet,2,86.6,5,164.54,4,3
-ORD-1064,39,Male,Fashion,Bank Transfer,1,145.6,25,109.2,5,3
-ORD-1065,18,Male,Electronics,Credit Card,1,639.2,30,447.44,3,2
-ORD-1066,18,Male,Groceries,COD,2,59.7,0,119.4,5,4
-ORD-1067,33,Female,Books,Credit Card,2,76.0,25,114.0,4,2
-ORD-1068,23,Female,Books,COD,3,69.3,5,197.5,5,2
-ORD-1069,46,Male,Books,COD,1,107.7,15,91.55,5,3
-ORD-1070,37,Female,Groceries,Bank Transfer,4,42.3,0,169.2,4,2
-ORD-1071,34,Female,Books,Credit Card,2,99.7,25,149.55,4,3
-ORD-1072,32,Female,Fashion,COD,2,106.3,15,180.71,4,4
-ORD-1073,18,Female,Groceries,COD,1,76.6,10,68.94,3,3
-ORD-1074,25,Male,Fashion,Credit Card,3,113.4,30,238.14,4,5
-ORD-1075,31,Male,Groceries,Credit Card,1,50.1,10,45.09,1,2
-ORD-1076,30,Male,Home & Living,Bank Transfer,2,270.6,15,460.02,2,5
-ORD-1077,38,Female,Books,Bank Transfer,1,86.3,0,86.3,3,3
-ORD-1078,28,Male,Books,COD,1,80.2,5,76.19,5,3
-ORD-1079,35,Male,Electronics,COD,2,435.1,30,609.14,4,3
-ORD-1080,24,Female,Groceries,COD,1,33.8,25,25.35,2,2
-ORD-1081,32,Female,Electronics,Credit Card,1,292.8,20,234.24,2,4
-ORD-1082,32,Female,Groceries,E-Wallet,1,40.3,15,34.25,2,1
-ORD-1083,32,Male,Books,E-Wallet,2,101.6,25,152.4,3,3
-ORD-1084,36,Male,Fashion,Bank Transfer,2,150.4,15,255.68,2,1
-ORD-1085,27,Female,Home & Living,COD,2,128.1,20,204.96,1,2
-ORD-1086,34,Female,Electronics,E-Wallet,1,347.7,20,278.16,5,1
-ORD-1087,43,Female,Home & Living,E-Wallet,3,199.8,5,569.43,4,1
-ORD-1088,18,Male,Home & Living,COD,2,178.2,10,320.76,4,3
-ORD-1089,30,Male,Groceries,COD,2,49.8,10,89.64,4,1
-ORD-1090,39,Male,Books,E-Wallet,1,60.0,15,51.0,5,6
-ORD-1091,32,Female,Books,E-Wallet,1,84.1,10,75.69,4,2
-ORD-1092,32,Male,Fashion,Bank Transfer,2,148.9,25,223.35,4,2
-ORD-1093,43,Male,Fashion,Bank Transfer,2,127.6,20,204.16,4,3
-ORD-1094,47,Male,Books,E-Wallet,2,113.0,10,203.4,4,5
-ORD-1095,29,Female,Fashion,COD,2,176.3,15,299.71,3,1
-ORD-1096,24,Male,Electronics,Bank Transfer,3,512.5,30,1076.25,4,2
-ORD-1097,34,Female,Home & Living,COD,4,163.2,15,554.88,4,2
-ORD-1098,40,Female,Books,Bank Transfer,4,100.6,15,342.04,3,3
-ORD-1099,32,Female,Books,COD,8,78.7,30,440.72,5,4
-ORD-1100,30,Male,Fashion,Bank Transfer,4,142.7,20,456.64,5,2
-ORD-1101,36,Male,Electronics,COD,3,456.0,10,1231.2,4,2
-ORD-1102,21,Female,Home & Living,COD,5,126.9,15,539.32,5,1
-ORD-1103,34,Female,Fashion,E-Wallet,2,122.5,0,245.0,5,3
-ORD-1104,28,Male,Groceries,E-Wallet,1,47.7,10,42.93,4,2
-ORD-1105,32,Male,Fashion,Credit Card,1,150.9,30,105.63,4,2
-ORD-1106,23,Male,Fashion,COD,2,76.9,30,107.66,4,3
-ORD-1107,29,Male,Books,Bank Transfer,8,111.0,10,799.2,4,2
-ORD-1108,34,Female,Fashion,COD,4,143.0,10,514.8,4,4
-ORD-1109,38,Female,Groceries,E-Wallet,2,44.6,25,66.9,5,6
-ORD-1110,29,Female,Groceries,Credit Card,2,35.4,20,56.64,3,4
-ORD-1111,32,Male,Electronics,E-Wallet,1,258.0,15,219.3,1,3
-ORD-1112,35,Female,Groceries,COD,1,54.4,10,3800.0,4,4
-ORD-1113,44,Female,Books,Bank Transfer,3,64.3,10,173.61,5,3
-ORD-1114,32,Male,Books,Bank Transfer,1,71.9,0,71.9,4,4
-ORD-1115,26,Female,Groceries,E-Wallet,2,30.1,15,51.17,1,4
-ORD-1116,25,Male,Electronics,COD,4,412.9,5,1569.02,1,4
-ORD-1117,57,Male,Electronics,Credit Card,4,536.5,5,2038.7,4,1
-ORD-1118,46,Female,Home & Living,Credit Card,4,146.7,20,469.44,4,1
-ORD-1119,33,Female,Fashion,COD,2,117.7,5,223.63,5,4
-ORD-1120,39,Female,Electronics,COD,1,719.0,30,503.3,4,2
-ORD-1121,26,Male,Electronics,Bank Transfer,1,312.4,5,296.78,5,4
-ORD-1122,46,Male,Home & Living,Credit Card,3,209.2,30,439.32,5,5
-ORD-1123,47,Male,Fashion,Bank Transfer,3,121.1,0,363.3,4,3
-ORD-1124,32,Male,Home & Living,Bank Transfer,1,197.5,15,167.88,4,4
-ORD-1125,31,Female,Home & Living,E-Wallet,2,143.2,5,272.08,5,5
-ORD-1126,35,Female,Books,E-Wallet,1,63.7,25,47.78,2,3
-ORD-1127,29,Male,Groceries,Credit Card,1,33.2,10,29.88,4,1
-ORD-1128,25,Female,Home & Living,Bank Transfer,2,182.0,25,273.0,2,3
-ORD-1129,22,Male,Books,COD,4,49.0,15,166.6,4,2
-ORD-1130,34,Male,Groceries,COD,1,44.1,25,33.08,5,6
-ORD-1131,45,Male,Books,E-Wallet,3,101.4,10,273.78,5,2
-ORD-1132,28,Female,Electronics,COD,1,355.0,30,248.5,5,1
-ORD-1133,38,Female,Groceries,E-Wallet,2,47.9,5,91.01,3,1
-ORD-1134,33,Female,Home & Living,Bank Transfer,1,193.6,15,164.56,5,4
-ORD-1135,46,Male,Home & Living,Bank Transfer,1,185.3,10,166.77,4,3
-ORD-1136,38,Male,Fashion,Credit Card,2,106.5,25,159.75,5,3
-ORD-1137,40,Female,Books,COD,1,99.2,10,89.28,3,2
-ORD-1138,49,Male,Electronics,Credit Card,1,325.7,10,293.13,4,2
-ORD-1139,22,Female,Groceries,Credit Card,3,52.1,0,156.3,4,4
-ORD-1140,39,Female,Home & Living,Bank Transfer,1,146.5,0,146.5,3,4
-ORD-1141,44,Female,Groceries,Bank Transfer,1,38.5,15,32.73,4,4
-ORD-1142,38,Male,Home & Living,Bank Transfer,1,209.5,0,209.5,4,3
-ORD-1143,38,Female,Home & Living,COD,3,220.4,15,562.02,3,1
-ORD-1144,43,Male,Home & Living,COD,3,218.8,30,459.48,2,3
-ORD-1145,24,Male,Books,Bank Transfer,3,93.5,5,266.47,4,4
-ORD-1146,40,Male,Home & Living,Credit Card,4,152.9,30,428.12,4,5
-ORD-1147,34,Female,Fashion,Credit Card,2,131.2,30,183.68,5,6
-ORD-1148,40,Female,Books,COD,2,107.5,20,172.0,3,2
-ORD-1149,38,Female,Electronics,COD,2,432.2,10,777.96,5,2
-ORD-1150,27,Male,Groceries,COD,2,64.9,0,129.8,4,4
+transaction_id,customer_age,gender,category,payment_method,items_count,price_per_unit_k,discount_pct,total_amount_k,customer_satisfaction,delivery_days
+TRX_0001,56,Wanita,Kebutuhan Pokok,Bank Transfer,5,252.6,5,1199.85,Medium,1
+TRX_0002,46,Wanita,Buku,E-Wallet,8,316.8,15,2154.24,High,4
+TRX_0003,32,Wanita,Fashion,Bank Transfer,4,197.1,0,788.4,Medium,6
+TRX_0004,25,Wanita,Elektronik,E-Wallet,8,242.0,0,1936.0,High,1
+TRX_0005,38,Wanita,Elektronik,Bank Transfer,2,378.8,15,643.96,High,2
+TRX_0006,56,Wanita,Kebutuhan Pokok,Bank Transfer,5,37.6,15,159.8,Medium,6
+TRX_0007,36,Pria,Kebutuhan Pokok,E-Wallet,9,141.2,10,1143.72,Medium,1
+TRX_0008,40,Wanita,Kebutuhan Pokok,E-Wallet,4,362.4,10,1304.64,High,6
+TRX_0009,28,Wanita,Kebutuhan Pokok,Bank Transfer,6,449.7,10,2428.38,Medium,2
+TRX_0010,28,Pria,Fashion,Bank Transfer,1,265.6,0,265.6,Medium,3
+TRX_0011,41,Wanita,Elektronik,Credit Card,9,275.4,5,2354.67,High,2
+TRX_0012,53,Pria,Elektronik,Bank Transfer,1,71.4,0,71.4,Low,2
+TRX_0013,57,Pria,Kebutuhan Pokok,E-Wallet,5,234.8,20,939.2,Low,6
+TRX_0014,41,Wanita,Fashion,E-Wallet,4,275.7,10,992.52,Medium,5
+TRX_0015,20,Pria,Elektronik,Bank Transfer,3,136.4,5,388.74,High,4
+TRX_0016,39,Pria,Elektronik,E-Wallet,6,149.2,5,850.44,Low,4
+TRX_0017,19,Pria,Kebutuhan Pokok,Bank Transfer,2,201.1,20,321.76,Low,3
+TRX_0018,41,Pria,Elektronik,COD,3,29.6,0,88.8,Low,3
+TRX_0019,47,Wanita,Elektronik,Bank Transfer,5,174.6,10,785.7,Low,4
+TRX_0020,55,Pria,Fashion,E-Wallet,9,121.5,10,984.15,Low,5
+TRX_0021,19,Wanita,Kebutuhan Pokok,Bank Transfer,2,177.2,10,318.96,Medium,4
+TRX_0022,38,Pria,Kebutuhan Pokok,Bank Transfer,8,77.5,0,620.0,Medium,5
+TRX_0023,50,Pria,Elektronik,Bank Transfer,2,447.5,20,716.0,Medium,3
+TRX_0024,29,Pria,Kebutuhan Pokok,COD,5,304.9,20,1219.6,Medium,1
+TRX_0025,39,Pria,Elektronik,E-Wallet,7,346.0,10,2179.8,Low,6
+TRX_0026,42,Wanita,Elektronik,COD,8,398.8,10,2871.36,Medium,3
+TRX_0027,44,Wanita,Kebutuhan Pokok,COD,1,259.3,20,207.44,Medium,3
+TRX_0028,59,Pria,Fashion,E-Wallet,6,61.7,15,314.67,High,2
+TRX_0029,45,Pria,Kebutuhan Pokok,E-Wallet,1,277.8,0,277.8,Low,2
+TRX_0030,33,Wanita,Kebutuhan Pokok,E-Wallet,2,301.7,10,543.06,Medium,2
+TRX_0031,32,Pria,Fashion,E-Wallet,1,377.8,10,340.02,Medium,6
+TRX_0032,20,Pria,Elektronik,E-Wallet,5,227.2,5,2552.01,High,2
+TRX_0033,54,Pria,Fashion,Bank Transfer,9,81.2,15,621.18,High,5
+TRX_0034,24,Wanita,Elektronik,E-Wallet,6,156.2,20,749.76,Medium,4
+TRX_0035,38,Wanita,Elektronik,E-Wallet,1,194.3,20,155.44,Medium,1
+TRX_0036,26,Wanita,Buku,Credit Card,1,330.0,5,313.5,High,3
+TRX_0037,56,Pria,Fashion,E-Wallet,2,294.0,0,588.0,Low,5
+TRX_0038,35,Pria,Kebutuhan Pokok,Credit Card,9,190.9,30,1202.67,Low,1
+TRX_0039,21,Wanita,Fashion,E-Wallet,3,493.5,15,1258.42,Medium,5
+TRX_0040,42,Wanita,Kebutuhan Pokok,E-Wallet,1,310.8,0,310.8,Low,5
+TRX_0041,31,Wanita,Fashion,Bank Transfer,5,133.9,20,535.6,High,3
+TRX_0042,26,Wanita,Fashion,Bank Transfer,7,68.9,20,385.84,High,4
+TRX_0043,43,Pria,Fashion,Credit Card,6,93.4,10,504.36,Medium,2
+TRX_0044,19,Wanita,Elektronik,Credit Card,1,138.1,10,124.29,Medium,6
+TRX_0045,37,Pria,Kebutuhan Pokok,Credit Card,5,97.1,5,461.22,High,4
+TRX_0046,45,Wanita,Elektronik,E-Wallet,5,109.6,0,548.0,High,6
+TRX_0047,24,Pria,Elektronik,E-Wallet,6,156.8,5,893.76,Medium,3
+TRX_0048,25,Wanita,Fashion,Credit Card,3,103.2,15,263.16,High,3
+TRX_0049,52,Wanita,Elektronik,Credit Card,5,450.4,0,2252.0,High,3
+TRX_0050,31,Wanita,Buku,COD,7,58.5,5,389.02,High,1
+TRX_0051,34,Wanita,Buku,Bank Transfer,5,271.8,5,1291.05,Low,6
+TRX_0052,53,Pria,Buku,E-Wallet,5,217.0,10,976.5,Medium,4
+TRX_0053,57,Wanita,Fashion,Credit Card,5,491.5,20,1966.0,High,4
+TRX_0054,21,Pria,Elektronik,E-Wallet,3,73.8,5,210.33,Medium,5
+TRX_0055,19,Pria,Buku,COD,1,211.0,5,200.45,High,5
+TRX_0056,23,Pria,Fashion,Credit Card,5,485.3,15,2062.52,Low,5
+TRX_0057,59,Pria,Buku,Bank Transfer,9,435.4,5,3722.67,Low,3
+TRX_0058,21,Wanita,Buku,Credit Card,1,412.2,0,412.2,Medium,4
+TRX_0059,46,Pria,Kebutuhan Pokok,Credit Card,3,143.8,5,409.83,Low,6
+TRX_0060,35,Pria,Elektronik,E-Wallet,4,102.0,0,408.0,High,3
+TRX_0061,43,Pria,Fashion,COD,1,340.9,0,340.9,High,1
+TRX_0062,51,Wanita,Kebutuhan Pokok,Bank Transfer,1,466.1,5,442.8,High,5
+TRX_0063,27,Wanita,Elektronik,Credit Card,8,287.2,5,2182.72,Medium,3
+TRX_0064,53,Wanita,Elektronik,E-Wallet,2,294.4,20,471.04,Medium,3
+TRX_0065,31,Wanita,Fashion,Credit Card,8,154.4,5,1173.44,Medium,1
+TRX_0066,48,Pria,Buku,E-Wallet,7,389.4,10,2453.22,Medium,2
+TRX_0067,32,Pria,Kebutuhan Pokok,E-Wallet,2,109.8,10,197.64,Medium,4
+TRX_0068,25,Wanita,Fashion,COD,6,175.4,0,2625.86,Medium,6
+TRX_0069,31,Pria,Elektronik,E-Wallet,6,224.2,10,1210.68,Medium,2
+TRX_0070,40,Pria,Fashion,E-Wallet,3,263.7,0,791.1,Medium,5
+TRX_0071,57,Pria,Buku,COD,2,136.4,30,190.96,High,3
+TRX_0072,38,Wanita,Elektronik,COD,1,75.1,0,75.1,High,1
+TRX_0073,33,Wanita,Fashion,Bank Transfer,6,313.1,5,3220.99,Medium,1
+TRX_0074,35,Pria,Kebutuhan Pokok,Bank Transfer,5,158.5,0,792.5,Medium,4
+TRX_0075,41,Wanita,Kebutuhan Pokok,Bank Transfer,9,299.0,30,1883.7,High,2
+TRX_0076,43,Wanita,Kebutuhan Pokok,E-Wallet,1,94.1,10,84.69,Low,4
+TRX_0077,42,Wanita,Kebutuhan Pokok,E-Wallet,7,250.9,10,1580.67,High,3
+TRX_0078,58,Wanita,Fashion,Bank Transfer,5,275.6,0,1378.0,High,4
+TRX_0079,46,Wanita,Elektronik,Credit Card,5,44.9,15,1428.46,Medium,6
+TRX_0080,32,Pria,Kebutuhan Pokok,Credit Card,2,181.6,0,363.2,Medium,1
+TRX_0081,18,Wanita,Kebutuhan Pokok,Credit Card,3,84.5,20,1783.0,Medium,1
+TRX_0082,42,Pria,Kebutuhan Pokok,E-Wallet,7,50.4,0,1682.04,Medium,5
+TRX_0083,24,Pria,Buku,Bank Transfer,6,495.2,0,2971.2,Low,5
+TRX_0084,26,Wanita,Fashion,E-Wallet,2,174.7,0,349.4,High,3
+TRX_0085,41,Pria,Fashion,Bank Transfer,6,408.7,5,2329.59,Low,6
+TRX_0086,18,Pria,Kebutuhan Pokok,Bank Transfer,2,142.2,10,255.96,Medium,2
+TRX_0087,25,Pria,Fashion,Credit Card,2,347.1,0,694.2,High,4
+TRX_0088,41,Wanita,Kebutuhan Pokok,E-Wallet,2,384.9,15,654.33,High,3
+TRX_0089,28,Wanita,Kebutuhan Pokok,E-Wallet,3,305.9,5,871.82,Medium,5
+TRX_0090,34,Pria,Kebutuhan Pokok,E-Wallet,2,246.4,10,443.52,Medium,4
+TRX_0091,25,Wanita,Elektronik,Credit Card,4,217.7,5,827.26,Low,5
+TRX_0092,52,Wanita,Fashion,Bank Transfer,9,187.5,5,1603.12,High,4
+TRX_0093,52,Wanita,Elektronik,E-Wallet,6,466.2,10,2517.48,Low,2
+TRX_0094,50,Wanita,Fashion,E-Wallet,1,418.7,0,418.7,Medium,3
+TRX_0095,22,Pria,Elektronik,Credit Card,8,483.2,0,3865.6,High,4
+TRX_0096,59,Pria,Fashion,E-Wallet,7,79.7,20,446.32,Low,6
+TRX_0097,56,Wanita,Fashion,Credit Card,3,370.8,20,889.92,High,1
+TRX_0098,58,Wanita,Elektronik,Credit Card,1,470.4,5,446.88,High,6
+TRX_0099,45,Pria,Fashion,E-Wallet,5,107.0,0,535.0,Low,6
+TRX_0100,24,Pria,Elektronik,E-Wallet,4,51.9,10,186.84,High,1
+TRX_0101,26,Wanita,Elektronik,COD,8,375.7,5,2855.32,Medium,6
+TRX_0102,25,Pria,Kebutuhan Pokok,E-Wallet,1,295.7,0,295.7,High,4
+TRX_0103,29,Wanita,Fashion,E-Wallet,1,424.1,0,424.1,Medium,4
+TRX_0104,51,Wanita,Elektronik,Credit Card,4,87.1,15,296.14,High,4
+TRX_0105,50,Pria,Fashion,COD,8,401.7,10,2892.24,Medium,1
+TRX_0106,40,Pria,Kebutuhan Pokok,COD,5,116.8,0,584.0,High,6
+TRX_0107,41,Wanita,Elektronik,Credit Card,2,98.6,0,197.2,High,1
+TRX_0108,54,Wanita,Fashion,E-Wallet,6,98.8,0,592.8,Medium,4
+TRX_0109,52,Pria,Elektronik,E-Wallet,5,411.0,10,1849.5,High,6
+TRX_0110,57,Wanita,Elektronik,Credit Card,2,339.3,0,678.6,Medium,6
+TRX_0111,39,Pria,Fashion,Bank Transfer,3,271.1,0,813.3,Low,5
+TRX_0112,44,Wanita,Fashion,Bank Transfer,9,192.2,15,1470.33,Low,5
+TRX_0113,52,Pria,Fashion,COD,7,441.1,0,3087.7,Medium,2
+TRX_0114,18,Pria,Kebutuhan Pokok,E-Wallet,7,208.4,10,1312.92,Medium,3
+TRX_0115,52,Pria,Buku,Bank Transfer,6,412.0,0,2472.0,High,5
+TRX_0116,54,Wanita,Fashion,E-Wallet,8,230.8,0,1846.4,Low,1
+TRX_0117,31,Wanita,Elektronik,Bank Transfer,4,200.9,0,803.6,High,5
+TRX_0118,20,Pria,Kebutuhan Pokok,E-Wallet,8,242.1,15,1646.28,Low,2
+TRX_0119,18,Wanita,Elektronik,E-Wallet,4,164.7,20,1812.42,High,6
+TRX_0120,22,Pria,Fashion,E-Wallet,8,378.9,15,2576.52,High,2
+TRX_0121,43,Pria,Elektronik,Bank Transfer,9,261.3,5,2234.12,Medium,6
+TRX_0122,31,Wanita,Elektronik,Credit Card,3,131.5,10,355.05,High,6
+TRX_0123,56,Wanita,Buku,Bank Transfer,3,451.8,0,1355.4,Low,3
+TRX_0124,44,Pria,Kebutuhan Pokok,COD,2,204.3,0,408.6,High,5
+TRX_0125,26,Wanita,Kebutuhan Pokok,E-Wallet,3,280.9,20,674.16,Medium,1
+TRX_0126,32,Wanita,Fashion,E-Wallet,3,455.1,0,1365.3,High,1
+TRX_0127,32,Pria,Elektronik,Credit Card,5,319.6,0,1598.0,Low,4
+TRX_0128,43,Pria,Elektronik,E-Wallet,5,76.1,0,380.5,Medium,6
+TRX_0129,59,Wanita,Elektronik,COD,2,471.1,0,942.2,High,1
+TRX_0130,30,Pria,Fashion,E-Wallet,6,321.3,0,3305.07,Medium,3
+TRX_0131,49,Pria,Kebutuhan Pokok,COD,5,180.8,10,813.6,Low,6
+TRX_0132,56,Wanita,Kebutuhan Pokok,E-Wallet,6,86.9,5,495.33,Low,3
+TRX_0133,49,Pria,Elektronik,Credit Card,1,401.1,20,320.88,Medium,1
+TRX_0134,21,Pria,Buku,Bank Transfer,5,317.6,15,1349.8,Medium,1
+TRX_0135,47,Wanita,Kebutuhan Pokok,COD,9,276.1,5,2360.66,Low,4
+TRX_0136,54,Wanita,Fashion,E-Wallet,2,449.1,0,898.2,Medium,1
+TRX_0137,40,Pria,Fashion,Bank Transfer,1,398.5,5,378.58,Low,6
+TRX_0138,56,Pria,Fashion,COD,9,92.8,10,751.68,High,6
+TRX_0139,32,Wanita,Elektronik,Bank Transfer,9,169.6,0,1526.4,Low,6
+TRX_0140,46,Wanita,Fashion,Bank Transfer,9,139.3,10,1128.33,Medium,4
+TRX_0141,53,Wanita,Kebutuhan Pokok,Bank Transfer,6,377.1,5,4011.47,Low,4
+TRX_0142,30,Wanita,Elektronik,Bank Transfer,8,36.1,10,259.92,Medium,1
+TRX_0143,49,Pria,Elektronik,Bank Transfer,1,293.5,5,278.82,High,2
+TRX_0144,24,Wanita,Elektronik,Bank Transfer,4,386.0,0,1544.0,Medium,2
+TRX_0145,39,Wanita,Elektronik,COD,1,440.8,20,352.64,Low,4
+TRX_0146,45,Pria,Kebutuhan Pokok,E-Wallet,8,184.2,15,1252.56,High,1
+TRX_0147,19,Wanita,Kebutuhan Pokok,E-Wallet,1,414.2,0,414.2,High,2
+TRX_0148,59,Pria,Fashion,COD,3,73.1,20,175.44,Low,1
+TRX_0149,23,Wanita,Elektronik,Credit Card,4,426.3,5,1619.94,High,1
+TRX_0150,45,Wanita,Fashion,Bank Transfer,8,81.2,20,519.68,High,1
