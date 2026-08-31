@@ -1,0 +1,151 @@
+order_id,customer_age,gender,category,payment_method,quantity,price_per_unit_k,discount_pct,total_amount_k,rating_score,delivery_days
+ORD-1001,30,Female,Fashion,Credit Card,1,114.8,0,114.8,4,3
+ORD-1002,29,Female,Electronics,E-Wallet,1,466.6,20,373.28,3,5
+ORD-1003,26,Male,Books,Bank Transfer,3,63.4,0,190.2,5,4
+ORD-1004,39,Female,Fashion,Credit Card,5,113.1,0,565.5,4,3
+ORD-1005,28,Male,Books,E-Wallet,5,98.8,15,419.9,2,3
+ORD-1006,42,Female,Home & Living,Credit Card,3,234.5,10,633.15,5,3
+ORD-1007,41,Female,Groceries,COD,2,27.2,10,48.96,3,2
+ORD-1008,41,Male,Home & Living,Credit Card,2,201.8,10,363.24,5,4
+ORD-1009,25,Female,Electronics,Credit Card,3,339.4,30,712.74,3,3
+ORD-1010,37,Female,Fashion,COD,1,148.6,10,133.74,3,2
+ORD-1011,31,Female,Home & Living,COD,1,137.8,5,130.91,4,3
+ORD-1012,33,Male,Fashion,Credit Card,3,110.4,15,281.52,4,3
+ORD-1013,26,Male,Electronics,Bank Transfer,3,467.1,10,1261.17,2,2
+ORD-1014,35,Female,Home & Living,Credit Card,2,255.0,30,357.0,4,4
+ORD-1015,28,Male,Home & Living,E-Wallet,2,181.8,15,309.06,1,5
+ORD-1016,24,Female,Fashion,E-Wallet,1,108.9,25,81.68,4,3
+ORD-1017,44,Male,Fashion,COD,5,141.4,5,671.65,3,4
+ORD-1018,25,Male,Home & Living,Credit Card,3,139.9,10,377.73,4,4
+ORD-1019,27,Male,Electronics,Bank Transfer,1,443.7,20,354.96,3,3
+ORD-1020,35,Male,Fashion,E-Wallet,4,127.3,5,483.74,3,3
+ORD-1021,22,Female,Fashion,COD,3,123.4,5,351.69,2,2
+ORD-1022,25,Female,Books,E-Wallet,2,94.6,15,160.82,4,3
+ORD-1023,33,Male,Fashion,COD,1,106.3,5,100.98,3,3
+ORD-1024,50,Female,Home & Living,E-Wallet,1,295.1,0,295.1,5,3
+ORD-1025,34,Female,Books,Credit Card,4,74.6,0,298.4,3,4
+ORD-1026,32,Female,Groceries,COD,2,42.6,25,63.9,4,1
+ORD-1027,35,Male,Home & Living,E-Wallet,3,234.7,0,704.1,2,1
+ORD-1028,34,Male,Electronics,E-Wallet,4,488.4,30,1367.52,3,3
+ORD-1029,44,Male,Home & Living,E-Wallet,2,271.9,15,462.23,4,2
+ORD-1030,29,Female,Fashion,Bank Transfer,1,84.5,10,76.05,4,4
+ORD-1031,48,Male,Books,E-Wallet,1,63.5,5,60.32,4,4
+ORD-1032,37,Male,Fashion,Bank Transfer,1,85.2,10,76.68,4,4
+ORD-1033,43,Male,Home & Living,Bank Transfer,5,194.2,0,971.0,5,3
+ORD-1034,34,Male,Home & Living,Credit Card,1,137.1,5,130.24,4,2
+ORD-1035,37,Female,Electronics,E-Wallet,2,343.5,30,480.9,3,5
+ORD-1036,32,Female,Fashion,COD,2,116.2,0,232.4,5,3
+ORD-1037,30,Male,Groceries,Credit Card,2,39.0,0,78.0,3,5
+ORD-1038,23,Male,Groceries,Credit Card,2,39.8,20,63.68,5,2
+ORD-1039,22,Male,Fashion,Credit Card,5,143.2,30,501.2,3,2
+ORD-1040,34,Female,Books,Credit Card,1,87.4,30,61.18,1,2
+ORD-1041,26,Female,Groceries,Bank Transfer,3,46.4,30,97.44,3,4
+ORD-1042,32,Female,Groceries,E-Wallet,5,42.1,15,178.92,4,5
+ORD-1043,35,Male,Electronics,Bank Transfer,1,366.1,10,329.49,1,2
+ORD-1044,27,Female,Books,E-Wallet,1,70.6,25,52.95,4,3
+ORD-1045,18,Male,Groceries,COD,1,42.5,25,4500.0,5,2
+ORD-1046,23,Male,Groceries,Bank Transfer,2,37.0,20,59.2,2,5
+ORD-1047,18,Male,Home & Living,Bank Transfer,2,256.9,30,359.66,1,3
+ORD-1048,40,Female,Books,COD,2,90.4,30,126.56,4,4
+ORD-1049,28,Female,Electronics,Credit Card,2,372.7,5,708.13,5,3
+ORD-1050,33,Female,Home & Living,E-Wallet,2,249.4,25,374.1,4,2
+ORD-1051,26,Male,Electronics,COD,1,453.0,30,317.1,5,3
+ORD-1052,31,Male,Electronics,COD,1,314.9,20,251.92,4,3
+ORD-1053,48,Female,Home & Living,COD,4,167.5,25,502.5,5,1
+ORD-1054,36,Female,Home & Living,COD,2,196.9,10,354.42,3,3
+ORD-1055,23,Male,Fashion,Credit Card,1,174.4,25,130.8,3,3
+ORD-1056,40,Female,Home & Living,COD,2,214.0,30,299.6,4,4
+ORD-1057,26,Female,Books,E-Wallet,5,45.5,10,204.75,5,5
+ORD-1058,18,Female,Home & Living,Credit Card,2,191.7,15,325.89,4,4
+ORD-1059,28,Male,Books,Credit Card,8,65.5,20,419.2,1,2
+ORD-1060,38,Male,Electronics,COD,1,414.9,15,352.66,3,3
+ORD-1061,25,Female,Groceries,COD,1,47.9,0,47.9,4,3
+ORD-1062,29,Female,Fashion,E-Wallet,3,90.9,5,259.07,3,1
+ORD-1063,36,Male,Books,E-Wallet,2,86.6,5,164.54,4,3
+ORD-1064,39,Male,Fashion,Bank Transfer,1,145.6,25,109.2,5,3
+ORD-1065,18,Male,Electronics,Credit Card,1,639.2,30,447.44,3,2
+ORD-1066,18,Male,Groceries,COD,2,59.7,0,119.4,5,4
+ORD-1067,33,Female,Books,Credit Card,2,76.0,25,114.0,4,2
+ORD-1068,23,Female,Books,COD,3,69.3,5,197.5,5,2
+ORD-1069,46,Male,Books,COD,1,107.7,15,91.55,5,3
+ORD-1070,37,Female,Groceries,Bank Transfer,4,42.3,0,169.2,4,2
+ORD-1071,34,Female,Books,Credit Card,2,99.7,25,149.55,4,3
+ORD-1072,32,Female,Fashion,COD,2,106.3,15,180.71,4,4
+ORD-1073,18,Female,Groceries,COD,1,76.6,10,68.94,3,3
+ORD-1074,25,Male,Fashion,Credit Card,3,113.4,30,238.14,4,5
+ORD-1075,31,Male,Groceries,Credit Card,1,50.1,10,45.09,1,2
+ORD-1076,30,Male,Home & Living,Bank Transfer,2,270.6,15,460.02,2,5
+ORD-1077,38,Female,Books,Bank Transfer,1,86.3,0,86.3,3,3
+ORD-1078,28,Male,Books,COD,1,80.2,5,76.19,5,3
+ORD-1079,35,Male,Electronics,COD,2,435.1,30,609.14,4,3
+ORD-1080,24,Female,Groceries,COD,1,33.8,25,25.35,2,2
+ORD-1081,32,Female,Electronics,Credit Card,1,292.8,20,234.24,2,4
+ORD-1082,32,Female,Groceries,E-Wallet,1,40.3,15,34.25,2,1
+ORD-1083,32,Male,Books,E-Wallet,2,101.6,25,152.4,3,3
+ORD-1084,36,Male,Fashion,Bank Transfer,2,150.4,15,255.68,2,1
+ORD-1085,27,Female,Home & Living,COD,2,128.1,20,204.96,1,2
+ORD-1086,34,Female,Electronics,E-Wallet,1,347.7,20,278.16,5,1
+ORD-1087,43,Female,Home & Living,E-Wallet,3,199.8,5,569.43,4,1
+ORD-1088,18,Male,Home & Living,COD,2,178.2,10,320.76,4,3
+ORD-1089,30,Male,Groceries,COD,2,49.8,10,89.64,4,1
+ORD-1090,39,Male,Books,E-Wallet,1,60.0,15,51.0,5,6
+ORD-1091,32,Female,Books,E-Wallet,1,84.1,10,75.69,4,2
+ORD-1092,32,Male,Fashion,Bank Transfer,2,148.9,25,223.35,4,2
+ORD-1093,43,Male,Fashion,Bank Transfer,2,127.6,20,204.16,4,3
+ORD-1094,47,Male,Books,E-Wallet,2,113.0,10,203.4,4,5
+ORD-1095,29,Female,Fashion,COD,2,176.3,15,299.71,3,1
+ORD-1096,24,Male,Electronics,Bank Transfer,3,512.5,30,1076.25,4,2
+ORD-1097,34,Female,Home & Living,COD,4,163.2,15,554.88,4,2
+ORD-1098,40,Female,Books,Bank Transfer,4,100.6,15,342.04,3,3
+ORD-1099,32,Female,Books,COD,8,78.7,30,440.72,5,4
+ORD-1100,30,Male,Fashion,Bank Transfer,4,142.7,20,456.64,5,2
+ORD-1101,36,Male,Electronics,COD,3,456.0,10,1231.2,4,2
+ORD-1102,21,Female,Home & Living,COD,5,126.9,15,539.32,5,1
+ORD-1103,34,Female,Fashion,E-Wallet,2,122.5,0,245.0,5,3
+ORD-1104,28,Male,Groceries,E-Wallet,1,47.7,10,42.93,4,2
+ORD-1105,32,Male,Fashion,Credit Card,1,150.9,30,105.63,4,2
+ORD-1106,23,Male,Fashion,COD,2,76.9,30,107.66,4,3
+ORD-1107,29,Male,Books,Bank Transfer,8,111.0,10,799.2,4,2
+ORD-1108,34,Female,Fashion,COD,4,143.0,10,514.8,4,4
+ORD-1109,38,Female,Groceries,E-Wallet,2,44.6,25,66.9,5,6
+ORD-1110,29,Female,Groceries,Credit Card,2,35.4,20,56.64,3,4
+ORD-1111,32,Male,Electronics,E-Wallet,1,258.0,15,219.3,1,3
+ORD-1112,35,Female,Groceries,COD,1,54.4,10,3800.0,4,4
+ORD-1113,44,Female,Books,Bank Transfer,3,64.3,10,173.61,5,3
+ORD-1114,32,Male,Books,Bank Transfer,1,71.9,0,71.9,4,4
+ORD-1115,26,Female,Groceries,E-Wallet,2,30.1,15,51.17,1,4
+ORD-1116,25,Male,Electronics,COD,4,412.9,5,1569.02,1,4
+ORD-1117,57,Male,Electronics,Credit Card,4,536.5,5,2038.7,4,1
+ORD-1118,46,Female,Home & Living,Credit Card,4,146.7,20,469.44,4,1
+ORD-1119,33,Female,Fashion,COD,2,117.7,5,223.63,5,4
+ORD-1120,39,Female,Electronics,COD,1,719.0,30,503.3,4,2
+ORD-1121,26,Male,Electronics,Bank Transfer,1,312.4,5,296.78,5,4
+ORD-1122,46,Male,Home & Living,Credit Card,3,209.2,30,439.32,5,5
+ORD-1123,47,Male,Fashion,Bank Transfer,3,121.1,0,363.3,4,3
+ORD-1124,32,Male,Home & Living,Bank Transfer,1,197.5,15,167.88,4,4
+ORD-1125,31,Female,Home & Living,E-Wallet,2,143.2,5,272.08,5,5
+ORD-1126,35,Female,Books,E-Wallet,1,63.7,25,47.78,2,3
+ORD-1127,29,Male,Groceries,Credit Card,1,33.2,10,29.88,4,1
+ORD-1128,25,Female,Home & Living,Bank Transfer,2,182.0,25,273.0,2,3
+ORD-1129,22,Male,Books,COD,4,49.0,15,166.6,4,2
+ORD-1130,34,Male,Groceries,COD,1,44.1,25,33.08,5,6
+ORD-1131,45,Male,Books,E-Wallet,3,101.4,10,273.78,5,2
+ORD-1132,28,Female,Electronics,COD,1,355.0,30,248.5,5,1
+ORD-1133,38,Female,Groceries,E-Wallet,2,47.9,5,91.01,3,1
+ORD-1134,33,Female,Home & Living,Bank Transfer,1,193.6,15,164.56,5,4
+ORD-1135,46,Male,Home & Living,Bank Transfer,1,185.3,10,166.77,4,3
+ORD-1136,38,Male,Fashion,Credit Card,2,106.5,25,159.75,5,3
+ORD-1137,40,Female,Books,COD,1,99.2,10,89.28,3,2
+ORD-1138,49,Male,Electronics,Credit Card,1,325.7,10,293.13,4,2
+ORD-1139,22,Female,Groceries,Credit Card,3,52.1,0,156.3,4,4
+ORD-1140,39,Female,Home & Living,Bank Transfer,1,146.5,0,146.5,3,4
+ORD-1141,44,Female,Groceries,Bank Transfer,1,38.5,15,32.73,4,4
+ORD-1142,38,Male,Home & Living,Bank Transfer,1,209.5,0,209.5,4,3
+ORD-1143,38,Female,Home & Living,COD,3,220.4,15,562.02,3,1
+ORD-1144,43,Male,Home & Living,COD,3,218.8,30,459.48,2,3
+ORD-1145,24,Male,Books,Bank Transfer,3,93.5,5,266.47,4,4
+ORD-1146,40,Male,Home & Living,Credit Card,4,152.9,30,428.12,4,5
+ORD-1147,34,Female,Fashion,Credit Card,2,131.2,30,183.68,5,6
+ORD-1148,40,Female,Books,COD,2,107.5,20,172.0,3,2
+ORD-1149,38,Female,Electronics,COD,2,432.2,10,777.96,5,2
+ORD-1150,27,Male,Groceries,COD,2,64.9,0,129.8,4,4

@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Exclude reference PDFs and DOCX files
+*.pdf
+*.docx
+Kisi-kisi*
+Statistics-made-easy*
+
+# Prompt documentation (private / reusable)
+prompts_gambar_ilustrasi.md
