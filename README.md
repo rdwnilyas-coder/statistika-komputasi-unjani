@@ -56,9 +56,8 @@ Statistika/
 │   ├── 09_probability_distributions.csv                       # Simulasi Peluang & Antrian (Modul 11)
 │   └── 10_ab_testing_system_metrics.csv                       # Eksperimen A/B Testing Sistem (Modul 14)
 │
-├── images/                                                    # Koleksi Visual Ilustrasi PNG (60:30:10)
-│
 └── notebooks/                                                 # 14 Modul Praktikum Jupyter Notebooks
+    ├── images/                                                # 14 Visual Infografis Ilustrasi 2D (PNG)
     ├── 01_eksplorasi_dan_skala_pengukuran.ipynb               # Skala Nominal, Ordinal, Rasio & Encoding
     ├── 02_ukuran_pemusatan_penyebaran_outlier.ipynb           # Mean, Median, IQR, Z-Score & Outlier
     ├── 03_visualisasi_data_dan_tabel_kontingensi.ipynb        # Crosstab, Heatmap, Boxplot & Multivariat
