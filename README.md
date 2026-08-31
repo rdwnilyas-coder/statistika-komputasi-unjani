@@ -65,7 +65,7 @@ Statistika/
 │   ├── 18_software_reliability_failures.csv                   # Waktu Kegagalan Software SRE (Modul 22)
 │   ├── 19_user_churn_survival.csv                             # Analisis Retensi & Churn Pengguna (Modul 23)
 │   ├── 20_case_sim_campus_usability.csv                       # Studi Kasus Usabilitas SIM Kampus (Modul 24)
-│   └── 21_case_cloud_reliability_churn.csv                    # Studi Kasus Keandalan Cloud & Churn (Modul 25)
+│   └── 21_case_educational_game_mda.csv                      # Survei Efektivitas Game Edukasi MDA (Modul 25)
 │
 └── notebooks/                                                 # 25 Modul Praktikum Jupyter Notebooks
     ├── images/                                                # Koleksi Visual Ilustrasi Infografis 2D
@@ -98,7 +98,7 @@ Statistika/
     ├── 22_keandalan_software_kaplan_meier.ipynb               # SRE, MTBF, Kurva Kaplan-Meier & Log-Rank Test
     ├── 23_analisis_churn_cox_hazard.ipynb                     # Pemodelan Retensi & Churn Pengguna (Cox Model)
     ├── 24_studi_kasus_usabilitas_sim_kampus.ipynb             # Studi Kasus 4: Evaluasi Usabilitas SIM Kampus
-    └── 25_studi_kasus_keandalan_cloud_retensi.ipynb           # Studi Kasus 5: Keandalan Cloud & Churn SaaS
+    └── 25_studi_kasus_efektivitas_game_edukasi_mda.ipynb      # Studi Kasus 5: Efektivitas Game Edukasi MDA
 ```
 
 ---
@@ -126,7 +126,7 @@ Statistika/
 ---
 
 ## 📗 BUKU 2: Statistika pada Pengembangan Perangkat Lunak (Modul 15 – 25)
-*Fokus: Software QA, Usability SUS/TAM, Inter-Rater Reliability, A/B Testing & Survival Analysis*
+*Fokus: Software QA, Usability SUS/TAM, Inter-Rater Reliability, A/B Testing, Survival Analysis & Gamifikasi MDA*
 
 | No | Modul Praktikum | Topik Utama | Akses Cepat Google Colab |
 | :---: | :--- | :--- | :---: |
@@ -140,7 +140,7 @@ Statistika/
 | **22** | [Keandalan Software (Kaplan-Meier)](notebooks/22_keandalan_software_kaplan_meier.ipynb) | SRE, MTBF, Right-Censored Data & Uji Log-Rank Rilis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/22_keandalan_software_kaplan_meier.ipynb) |
 | **23** | [Pemodelan Churn (Cox Hazard)](notebooks/23_analisis_churn_cox_hazard.ipynb) | Model Regresi Bahaya Proporsional Cox & Hazard Ratio ($HR$) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/23_analisis_churn_cox_hazard.ipynb) |
 | **24** | [Studi Kasus 4: Usabilitas SIM Kampus](notebooks/24_studi_kasus_usabilitas_sim_kampus.ipynb) | Evaluasi Usabilitas End-to-End SUS, Cronbach & Two-Way ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/24_studi_kasus_usabilitas_sim_kampus.ipynb) |
-| **25** | [Studi Kasus 5: Keandalan Cloud & Churn](notebooks/25_studi_kasus_keandalan_cloud_retensi.ipynb) | Pelanggaran SLA 99.99%, Pemodelan Keandalan & Retensi SaaS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/25_studi_kasus_keandalan_cloud_retensi.ipynb) |
+| **25** | [Studi Kasus 5: Game Edukasi MDA](notebooks/25_studi_kasus_efektivitas_game_edukasi_mda.ipynb) | Evaluasi Pre-Post Test, N-Gain Hake, Effect Size & Dimensi MDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/25_studi_kasus_efektivitas_game_edukasi_mda.ipynb) |
 
 ---
 
