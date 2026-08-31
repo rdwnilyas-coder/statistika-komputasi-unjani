@@ -41,9 +41,6 @@ Statistika/
 ├── requirements.txt                                           # Daftar dependensi pustaka Python
 ├── .gitignore                                                 # Filter file sementara / dokumen privat
 │
-├── Rencana_Buku_1_Statistika_Analisis_Data.md                 # Silabus Lengkap Rencana Buku 1
-├── Rencana_Buku_2_Statistika_Pengembangan_Perangkat_Lunak.md  # Silabus Lengkap Rencana Buku 2
-│
 ├── datasets/                                                  # Koleksi Dataset Realistis CSV
 │   ├── 01_ecommerce_sales_eda.csv                             # Transaksi E-Commerce (Modul 01, 02, 03)
 │   ├── 02_server_performance_assumptions.csv                  # Metrik Kinerja Server (Modul 04)
