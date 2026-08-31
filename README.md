@@ -6,7 +6,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-14%20Notebooks-orange.svg)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red.svg)](https://github.com/rdwnilyas-coder)
+
+![Visual Abstract Statistika Komputasi UNJANI](notebooks/images/visual_abstract_statistika_komputasi.png)
 
 ---
 
@@ -75,27 +78,43 @@ Statistika/
 
 ## 📚 Daftar Lengkap 14 Modul Praktikum (Buku 1)
 
-| No | Modul Praktikum | Topik Utama | Pustaka Utama |
-| :---: | :--- | :--- | :--- |
-| **01** | [Eksplorasi & Skala Pengukuran](notebooks/01_eksplorasi_dan_skala_pengukuran.ipynb) | Tipe Data, Skala Nominal-Ordinal-Rasio, One-Hot Encoding | `pandas`, `seaborn` |
-| **02** | [Pemusatan, Penyebaran & Outlier](notebooks/02_ukuran_pemusatan_penyebaran_outlier.ipynb) | Mean, Median, Modus, IQR, Z-Score, Deteksi Outlier | `scipy.stats`, `matplotlib` |
-| **03** | [Visualisasi & Crosstab](notebooks/03_visualisasi_data_dan_tabel_kontingensi.ipynb) | Tabel Kontingensi, Proporsi Bivariat, Violin Plot | `pandas`, `seaborn` |
-| **04** | [Uji Asumsi Data](notebooks/04_pengujian_asumsi_data_diagnostik.ipynb) | Shapiro-Wilk, Q-Q Plot, Uji Levene, Analisis VIF | `scipy.stats`, `statsmodels` |
-| **05** | [Analisis Korelasi & Seleksi Fitur](notebooks/05_analisis_korelasi_dan_feature_selection.ipynb) | Pearson $r$, Spearman $
-ho$, Korelasi Parsial, Heatmap | `scipy.stats`, `seaborn` |
-| **06** | [Regresi Linier Berganda](notebooks/06_regresi_linier_sederhana_dan_berganda.ipynb) | OLS Regression, $R^2$, Diagnostik Residual, Prediksi Biaya | `statsmodels.api`, `sklearn` |
-| **07** | [Regresi Logistik Biner](notebooks/07_regresi_logistik_klasifikasi_biner.ipynb) | Sigmoid, Odds Ratio ($e^eta$), Confusion Matrix, ROC-AUC | `statsmodels`, `sklearn` |
-| **08** | [Reduksi Dimensi (PCA)](notebooks/08_reduksi_dimensi_pca_dan_faktor.ipynb) | Vektor Eigen, Kriteria Kaiser, Scree Plot, 2D Biplot | `sklearn.decomposition` |
-| **09** | [Analisis Klaster K-Means](notebooks/09_analisis_klaster_kmeans_dan_hirarki.ipynb) | Klasterisasi Hirarki, K-Means, Elbow Curve, Silhouette | `scipy.cluster`, `sklearn` |
-| **10** | [Market Basket Analysis](notebooks/10_market_basket_association_rules.ipynb) | Support, Confidence, Lift, Algoritma Apriori | `mlxtend` |
-| **11** | [Teori Probabilitas & Distribusi](notebooks/11_teori_probabilitas_dan_distribusi.ipynb) | Teorema Bayes, Distribusi Binomial, Poisson, Normal | `scipy.stats`, `numpy` |
-| **12** | [Studi Kasus 1: Risiko Fintech](notebooks/12_studi_kasus_prediksi_risiko_fintech.ipynb) | Scoring Kredit UMKM, ROC-AUC & Threshold Tuning | `statsmodels`, `sklearn` |
-| **13** | [Studi Kasus 2: E-Commerce](notebooks/13_studi_kasus_segmentasi_rekomendasi_ecommerce.ipynb) | Persona Segmentasi K-Means & Aturan Rekomendasi | `sklearn`, `mlxtend` |
-| **14** | [Studi Kasus 3: A/B Testing](notebooks/14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb) | Uji Beda Welch t-Test & Chi-Square Rasio Konversi | `scipy.stats`, `seaborn` |
+| No | Modul Praktikum | Topik Utama | Akses Cepat Google Colab |
+| :---: | :--- | :--- | :---: |
+| **01** | [Eksplorasi & Skala Pengukuran](notebooks/01_eksplorasi_dan_skala_pengukuran.ipynb) | Tipe Data, Skala Nominal-Ordinal-Rasio, One-Hot Encoding | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/01_eksplorasi_dan_skala_pengukuran.ipynb) |
+| **02** | [Pemusatan, Penyebaran & Outlier](notebooks/02_ukuran_pemusatan_penyebaran_outlier.ipynb) | Mean, Median, Modus, IQR, Z-Score, Deteksi Outlier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/02_ukuran_pemusatan_penyebaran_outlier.ipynb) |
+| **03** | [Visualisasi & Crosstab](notebooks/03_visualisasi_data_dan_tabel_kontingensi.ipynb) | Tabel Kontingensi, Proporsi Bivariat, Violin Plot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/03_visualisasi_data_dan_tabel_kontingensi.ipynb) |
+| **04** | [Uji Asumsi Data](notebooks/04_pengujian_asumsi_data_diagnostik.ipynb) | Shapiro-Wilk, Q-Q Plot, Uji Levene, Analisis VIF | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/04_pengujian_asumsi_data_diagnostik.ipynb) |
+| **05** | [Analisis Korelasi & Seleksi Fitur](notebooks/05_analisis_korelasi_dan_feature_selection.ipynb) | Pearson $r$, Spearman $\rho$, Korelasi Parsial, Heatmap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/05_analisis_korelasi_dan_feature_selection.ipynb) |
+| **06** | [Regresi Linier Berganda](notebooks/06_regresi_linier_sederhana_dan_berganda.ipynb) | OLS Regression, $R^2$, Diagnostik Residual, Prediksi Biaya | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/06_regresi_linier_sederhana_dan_berganda.ipynb) |
+| **07** | [Regresi Logistik Biner](notebooks/07_regresi_logistik_klasifikasi_biner.ipynb) | Sigmoid, Odds Ratio ($e^\beta$), Confusion Matrix, ROC-AUC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/07_regresi_logistik_klasifikasi_biner.ipynb) |
+| **08** | [Reduksi Dimensi (PCA)](notebooks/08_reduksi_dimensi_pca_dan_faktor.ipynb) | Vektor Eigen, Kriteria Kaiser, Scree Plot, 2D Biplot | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/08_reduksi_dimensi_pca_dan_faktor.ipynb) |
+| **09** | [Analisis Klaster K-Means](notebooks/09_analisis_klaster_kmeans_dan_hirarki.ipynb) | Klasterisasi Hirarki, K-Means, Elbow Curve, Silhouette | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/09_analisis_klaster_kmeans_dan_hirarki.ipynb) |
+| **10** | [Market Basket Analysis](notebooks/10_market_basket_association_rules.ipynb) | Support, Confidence, Lift, Algoritma Apriori | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/10_market_basket_association_rules.ipynb) |
+| **11** | [Teori Probabilitas & Distribusi](notebooks/11_teori_probabilitas_dan_distribusi.ipynb) | Teorema Bayes, Distribusi Binomial, Poisson, Normal | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/11_teori_probabilitas_dan_distribusi.ipynb) |
+| **12** | [Studi Kasus 1: Risiko Fintech](notebooks/12_studi_kasus_prediksi_risiko_fintech.ipynb) | Scoring Kredit UMKM, ROC-AUC & Threshold Tuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/12_studi_kasus_prediksi_risiko_fintech.ipynb) |
+| **13** | [Studi Kasus 2: E-Commerce](notebooks/13_studi_kasus_segmentasi_rekomendasi_ecommerce.ipynb) | Persona Segmentasi K-Means & Aturan Rekomendasi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/13_studi_kasus_segmentasi_rekomendasi_ecommerce.ipynb) |
+| **14** | [Studi Kasus 3: A/B Testing](notebooks/14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb) | Uji Beda Welch t-Test & Chi-Square Rasio Konversi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb) |
 
 ---
 
-## 🚀 Panduan Memulai & Menjalankan Modul
+## ☁️ Panduan Menjalankan di Google Colab
+
+Seluruh modul praktikum dapat dijalankan langsung di cloud browser melalui **Google Colab** tanpa perlu instalasi lingkungan lokal di komputer Anda:
+
+### Cara 1: Akses Langsung 1-Klik (*Recommended*)
+1. Klik tombol **`Open In Colab`** pada tabel modul di atas untuk membuka notebook yang diinginkan.
+2. Di sel paling atas notebook pada Google Colab, tambahkan dan jalankan baris berikut untuk mengunduh dataset dan gambar ilustrasi dari repositori:
+   ```python
+   # Kloning repositori untuk mendapatkan dataset dan gambar pendukung
+   !git clone https://github.com/rdwnilyas-coder/statistika-komputasi-unjani.git
+   %cd statistika-komputasi-unjani/notebooks
+   !pip install -r ../requirements.txt
+   ```
+3. Jalankan sel kode praktikum secara berurutan (*Runtime -> Run all* atau `Ctrl + F9`).
+
+---
+
+## 💻 Panduan Menjalankan di Komputer Lokal
 
 ### 1. Kloning Repositori
 ```bash
@@ -127,6 +146,11 @@ jupyter lab
 
 ## 📜 Lisensi & Hak Cipta
 Repositori dan seluruh materi di dalamnya dilisensikan di bawah **[MIT License](LICENSE)**. Bebas digunakan, dimodifikasi, dan didistribusikan untuk keperluan akademik, pengajaran, penelitian, maupun pengembangan profesional.
+
+---
+**Teknik Informatika — Universitas Jenderal Achmad Yani (UNJANI)**  
+*Jl. Terusan Jend. Sudirman, Cimahi, Jawa Barat 40525*
+Bebas digunakan, dimodifikasi, dan didistribusikan untuk keperluan akademik, pengajaran, penelitian, maupun pengembangan profesional.
 
 ---
 **Teknik Informatika — Universitas Jenderal Achmad Yani (UNJANI)**  
