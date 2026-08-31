@@ -54,10 +54,24 @@ Statistika/
 │   ├── 07_customer_segmentation_clustering.csv                # Perilaku Belanja (Modul 09 & 13)
 │   ├── 08_market_basket_transactions.csv                      # Transaksi Keranjang Belanja (Modul 10 & 13)
 │   ├── 09_probability_distributions.csv                       # Simulasi Peluang & Antrian (Modul 11)
-│   └── 10_ab_testing_system_metrics.csv                       # Eksperimen A/B Testing Sistem (Modul 14)
+│   ├── 10_ab_testing_system_metrics.csv                       # Eksperimen A/B Testing Sistem (Modul 14)
+│   ├── 11_software_metrics_sdlc.csv                           # Metrik Kualitas & Kerapatan Cacat SDLC (Modul 15)
+│   ├── 12_usability_sus_tam_survey.csv                        # Survei Usabilitas SUS & TAM (Modul 16)
+│   ├── 13_survey_reliability_items.csv                        # Kuesioner Konsistensi Internal (Modul 17)
+│   ├── 14_qa_bug_ratings_cohen.csv                            # Rating Klasifikasi Bug 2 Evaluator (Modul 18)
+│   ├── 15_heuristic_evaluation_fleiss.csv                     # Evaluasi Heuristik Multi-Pakar (Modul 19)
+│   ├── 16_refactoring_latency_ttest.csv                       # Komparasi Latensi Refactoring (Modul 20)
+│   ├── 17_ui_interaction_anova.csv                            # Two-Way ANOVA Interaksi UI/UX (Modul 21)
+│   ├── 18_software_reliability_failures.csv                   # Waktu Kegagalan Software SRE (Modul 22)
+│   ├── 19_user_churn_survival.csv                             # Analisis Retensi & Churn Pengguna (Modul 23)
+│   ├── 20_case_sim_campus_usability.csv                       # Studi Kasus Usabilitas SIM Kampus (Modul 24)
+│   └── 21_case_cloud_reliability_churn.csv                    # Studi Kasus Keandalan Cloud & Churn (Modul 25)
 │
-└── notebooks/                                                 # 14 Modul Praktikum Jupyter Notebooks
-    ├── images/                                                # 14 Visual Infografis Ilustrasi 2D (PNG)
+└── notebooks/                                                 # 25 Modul Praktikum Jupyter Notebooks
+    ├── images/                                                # Koleksi Visual Ilustrasi Infografis 2D
+    ├── images_id/                                             # Koleksi Visual Ilustrasi Versi Bahasa Indonesia
+    │
+    │   # --- BUKU 1: STATISTIKA UNTUK ANALISIS DATA ---
     ├── 01_eksplorasi_dan_skala_pengukuran.ipynb               # Skala Nominal, Ordinal, Rasio & Encoding
     ├── 02_ukuran_pemusatan_penyebaran_outlier.ipynb           # Mean, Median, IQR, Z-Score & Outlier
     ├── 03_visualisasi_data_dan_tabel_kontingensi.ipynb        # Crosstab, Heatmap, Boxplot & Multivariat
@@ -71,12 +85,26 @@ Statistika/
     ├── 11_teori_probabilitas_dan_distribusi.ipynb             # Bayes, Binomial, Poisson, Normal, Z-Score
     ├── 12_studi_kasus_prediksi_risiko_fintech.ipynb           # Studi Kasus 1: Credit Scoring & Threshold
     ├── 13_studi_kasus_segmentasi_rekomendasi_ecommerce.ipynb  # Studi Kasus 2: Persona Klaster & Bundling
-    └── 14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb # Studi Kasus 3: A/B Testing Latency & Conv
+    ├── 14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb # Studi Kasus 3: A/B Testing Latency & Conv
+    │
+    │   # --- BUKU 2: STATISTIKA PADA PENGEMBANGAN PERANGKAT LUNAK ---
+    ├── 15_metrik_software_dan_sampling_sdlc.ipynb             # Metrik SDLC, DORA & Ukuran Sampel Slovin
+    ├── 16_pengukuran_usabilitas_sus_tam.ipynb                 # Standar SUS (10 Butir), Adjective Rating & TAM
+    ├── 17_validitas_reliabilitas_cronbach_alpha.ipynb         # Item-Total Correlation & Cronbach's Alpha
+    ├── 18_inter_rater_reliability_cohens_kappa.ipynb          # Uji Kesepakatan QA Bug Severity (Cohen's Kappa)
+    ├── 19_weighted_fleiss_kappa_multirater.ipynb              # Weighted Kappa & Fleiss' Kappa Multi-Pakar
+    ├── 20_eksperimen_abtesting_ttest_mannwhitney.ipynb        # Paired/Independent t-Test & Mann-Whitney U
+    ├── 21_analisis_varians_anova_multivariat.ipynb            # One-Way & Two-Way ANOVA Interaksi UI/UX
+    ├── 22_keandalan_software_kaplan_meier.ipynb               # SRE, MTBF, Kurva Kaplan-Meier & Log-Rank Test
+    ├── 23_analisis_churn_cox_hazard.ipynb                     # Pemodelan Retensi & Churn Pengguna (Cox Model)
+    ├── 24_studi_kasus_usabilitas_sim_kampus.ipynb             # Studi Kasus 4: Evaluasi Usabilitas SIM Kampus
+    └── 25_studi_kasus_keandalan_cloud_retensi.ipynb           # Studi Kasus 5: Keandalan Cloud & Churn SaaS
 ```
 
 ---
 
-## 📚 Daftar Lengkap 14 Modul Praktikum (Buku 1)
+## 📘 BUKU 1: Statistika untuk Analisis Data (Modul 01 – 14)
+*Fokus: Data Science, Machine Learning, Data Analytics, dan Studi Kasus Industri*
 
 | No | Modul Praktikum | Topik Utama | Akses Cepat Google Colab |
 | :---: | :--- | :--- | :---: |
@@ -94,6 +122,25 @@ Statistika/
 | **12** | [Studi Kasus 1: Risiko Fintech](notebooks/12_studi_kasus_prediksi_risiko_fintech.ipynb) | Scoring Kredit UMKM, ROC-AUC & Threshold Tuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/12_studi_kasus_prediksi_risiko_fintech.ipynb) |
 | **13** | [Studi Kasus 2: E-Commerce](notebooks/13_studi_kasus_segmentasi_rekomendasi_ecommerce.ipynb) | Persona Segmentasi K-Means & Aturan Rekomendasi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/13_studi_kasus_segmentasi_rekomendasi_ecommerce.ipynb) |
 | **14** | [Studi Kasus 3: A/B Testing](notebooks/14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb) | Uji Beda Welch t-Test & Chi-Square Rasio Konversi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/14_studi_kasus_optimasi_kinerja_sistem_abtesting.ipynb) |
+
+---
+
+## 📗 BUKU 2: Statistika pada Pengembangan Perangkat Lunak (Modul 15 – 25)
+*Fokus: Software QA, Usability SUS/TAM, Inter-Rater Reliability, A/B Testing & Survival Analysis*
+
+| No | Modul Praktikum | Topik Utama | Akses Cepat Google Colab |
+| :---: | :--- | :--- | :---: |
+| **15** | [Metrik SDLC & Sampling](notebooks/15_metrik_software_dan_sampling_sdlc.ipynb) | Metrik Kualitas Kode, Defect Density, DORA & Sampel Slovin | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/15_metrik_software_dan_sampling_sdlc.ipynb) |
+| **16** | [Pengukuran Usabilitas (SUS & TAM)](notebooks/16_pengukuran_usabilitas_sus_tam.ipynb) | Kuesioner SUS 10 Butir, Adjective Rating & TAM Usefulness | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/16_pengukuran_usabilitas_sus_tam.ipynb) |
+| **17** | [Validitas & Cronbach's Alpha](notebooks/17_validitas_reliabilitas_cronbach_alpha.ipynb) | Item-Total Correlation Pearson & Cronbach's Alpha ($\ge 0.70$) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/17_validitas_reliabilitas_cronbach_alpha.ipynb) |
+| **18** | [Uji Kesepakatan QA (Cohen's Kappa)](notebooks/18_inter_rater_reliability_cohens_kappa.ipynb) | Koreksi Kesepakatan Acak & Indeks Cohen's $\kappa$ Bug Severity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/18_inter_rater_reliability_cohens_kappa.ipynb) |
+| **19** | [Weighted & Fleiss' Kappa](notebooks/19_weighted_fleiss_kappa_multirater.ipynb) | Weighted Kappa Data Ordinal & Fleiss' Kappa Multi-Pakar | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/19_weighted_fleiss_kappa_multirater.ipynb) |
+| **20** | [A/B Testing t-Test & Non-Parametrik](notebooks/20_eksperimen_abtesting_ttest_mannwhitney.ipynb) | Paired/Independent t-Test, Mann-Whitney U & Wilcoxon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/20_eksperimen_abtesting_ttest_mannwhitney.ipynb) |
+| **21** | [Two-Way ANOVA Interaksi UI](notebooks/21_analisis_varians_anova_multivariat.ipynb) | Efek Utama Tipe Perangkat, Layout Navigasi & Interaksi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/21_analisis_varians_anova_multivariat.ipynb) |
+| **22** | [Keandalan Software (Kaplan-Meier)](notebooks/22_keandalan_software_kaplan_meier.ipynb) | SRE, MTBF, Right-Censored Data & Uji Log-Rank Rilis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/22_keandalan_software_kaplan_meier.ipynb) |
+| **23** | [Pemodelan Churn (Cox Hazard)](notebooks/23_analisis_churn_cox_hazard.ipynb) | Model Regresi Bahaya Proporsional Cox & Hazard Ratio ($HR$) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/23_analisis_churn_cox_hazard.ipynb) |
+| **24** | [Studi Kasus 4: Usabilitas SIM Kampus](notebooks/24_studi_kasus_usabilitas_sim_kampus.ipynb) | Evaluasi Usabilitas End-to-End SUS, Cronbach & Two-Way ANOVA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/24_studi_kasus_usabilitas_sim_kampus.ipynb) |
+| **25** | [Studi Kasus 5: Keandalan Cloud & Churn](notebooks/25_studi_kasus_keandalan_cloud_retensi.ipynb) | Pelanggaran SLA 99.99%, Pemodelan Keandalan & Retensi SaaS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdwnilyas-coder/statistika-komputasi-unjani/blob/main/notebooks/25_studi_kasus_keandalan_cloud_retensi.ipynb) |
 
 ---
 

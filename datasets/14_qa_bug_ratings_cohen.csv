@@ -1,0 +1,151 @@
+bug_id,module,rater_1_severity,rater_2_severity
+BUG_0001,Payment,Minor,Minor
+BUG_0002,Auth,Major,Major
+BUG_0003,Auth,Major,Major
+BUG_0004,Auth,Minor,Critical
+BUG_0005,API Gateway,Major,Major
+BUG_0006,Reports,Major,Major
+BUG_0007,Payment,Major,Major
+BUG_0008,Dashboard,Minor,Critical
+BUG_0009,Reports,Major,Critical
+BUG_0010,Dashboard,Major,Major
+BUG_0011,Reports,Major,Major
+BUG_0012,Auth,Minor,Minor
+BUG_0013,API Gateway,Major,Major
+BUG_0014,Dashboard,Major,Major
+BUG_0015,Reports,Major,Major
+BUG_0016,API Gateway,Minor,Minor
+BUG_0017,Dashboard,Critical,Critical
+BUG_0018,Payment,Major,Major
+BUG_0019,Reports,Minor,Minor
+BUG_0020,Payment,Minor,Critical
+BUG_0021,Auth,Critical,Critical
+BUG_0022,Payment,Minor,Minor
+BUG_0023,Payment,Critical,Critical
+BUG_0024,Reports,Major,Minor
+BUG_0025,Auth,Major,Major
+BUG_0026,Payment,Minor,Minor
+BUG_0027,API Gateway,Minor,Minor
+BUG_0028,Dashboard,Critical,Critical
+BUG_0029,Payment,Minor,Minor
+BUG_0030,Auth,Major,Major
+BUG_0031,Payment,Minor,Minor
+BUG_0032,Dashboard,Minor,Minor
+BUG_0033,Auth,Minor,Minor
+BUG_0034,Reports,Major,Major
+BUG_0035,Auth,Critical,Critical
+BUG_0036,Reports,Minor,Minor
+BUG_0037,Auth,Minor,Critical
+BUG_0038,Dashboard,Minor,Minor
+BUG_0039,Dashboard,Major,Major
+BUG_0040,Auth,Minor,Minor
+BUG_0041,Payment,Critical,Critical
+BUG_0042,Dashboard,Major,Major
+BUG_0043,Reports,Major,Major
+BUG_0044,Reports,Minor,Minor
+BUG_0045,API Gateway,Critical,Critical
+BUG_0046,Reports,Minor,Minor
+BUG_0047,API Gateway,Minor,Minor
+BUG_0048,Auth,Major,Major
+BUG_0049,Auth,Major,Major
+BUG_0050,Auth,Minor,Minor
+BUG_0051,Payment,Minor,Minor
+BUG_0052,Payment,Major,Major
+BUG_0053,API Gateway,Minor,Minor
+BUG_0054,Reports,Major,Major
+BUG_0055,Reports,Major,Major
+BUG_0056,Auth,Minor,Minor
+BUG_0057,Dashboard,Minor,Minor
+BUG_0058,Payment,Minor,Minor
+BUG_0059,Payment,Major,Minor
+BUG_0060,Auth,Major,Critical
+BUG_0061,Payment,Minor,Minor
+BUG_0062,Auth,Major,Minor
+BUG_0063,API Gateway,Critical,Minor
+BUG_0064,Reports,Minor,Minor
+BUG_0065,Dashboard,Critical,Critical
+BUG_0066,Reports,Minor,Minor
+BUG_0067,Reports,Minor,Minor
+BUG_0068,API Gateway,Minor,Critical
+BUG_0069,Payment,Minor,Minor
+BUG_0070,Dashboard,Minor,Minor
+BUG_0071,Payment,Minor,Minor
+BUG_0072,Reports,Critical,Major
+BUG_0073,Auth,Major,Major
+BUG_0074,Reports,Major,Major
+BUG_0075,Payment,Minor,Minor
+BUG_0076,Reports,Minor,Minor
+BUG_0077,Auth,Minor,Minor
+BUG_0078,API Gateway,Major,Major
+BUG_0079,Payment,Critical,Critical
+BUG_0080,Reports,Minor,Minor
+BUG_0081,Payment,Minor,Minor
+BUG_0082,API Gateway,Major,Critical
+BUG_0083,Reports,Minor,Minor
+BUG_0084,Reports,Minor,Minor
+BUG_0085,Payment,Major,Major
+BUG_0086,Payment,Major,Minor
+BUG_0087,Auth,Minor,Minor
+BUG_0088,API Gateway,Minor,Minor
+BUG_0089,Auth,Critical,Critical
+BUG_0090,Reports,Minor,Minor
+BUG_0091,Payment,Minor,Minor
+BUG_0092,Reports,Minor,Minor
+BUG_0093,Reports,Minor,Minor
+BUG_0094,Dashboard,Minor,Minor
+BUG_0095,Dashboard,Major,Critical
+BUG_0096,Reports,Minor,Minor
+BUG_0097,Payment,Minor,Minor
+BUG_0098,Reports,Major,Minor
+BUG_0099,Dashboard,Major,Major
+BUG_0100,Payment,Critical,Critical
+BUG_0101,Reports,Critical,Critical
+BUG_0102,API Gateway,Minor,Minor
+BUG_0103,API Gateway,Major,Major
+BUG_0104,Reports,Minor,Minor
+BUG_0105,Payment,Critical,Critical
+BUG_0106,Reports,Minor,Minor
+BUG_0107,Reports,Critical,Critical
+BUG_0108,Dashboard,Major,Major
+BUG_0109,API Gateway,Minor,Minor
+BUG_0110,Dashboard,Major,Major
+BUG_0111,Dashboard,Critical,Critical
+BUG_0112,Reports,Critical,Critical
+BUG_0113,Dashboard,Minor,Critical
+BUG_0114,API Gateway,Major,Major
+BUG_0115,Dashboard,Minor,Major
+BUG_0116,API Gateway,Minor,Minor
+BUG_0117,Dashboard,Minor,Minor
+BUG_0118,API Gateway,Minor,Minor
+BUG_0119,Dashboard,Major,Major
+BUG_0120,Dashboard,Minor,Minor
+BUG_0121,Payment,Major,Major
+BUG_0122,API Gateway,Minor,Minor
+BUG_0123,API Gateway,Minor,Minor
+BUG_0124,API Gateway,Minor,Minor
+BUG_0125,Auth,Minor,Minor
+BUG_0126,Dashboard,Minor,Critical
+BUG_0127,API Gateway,Minor,Minor
+BUG_0128,Auth,Major,Major
+BUG_0129,Payment,Minor,Minor
+BUG_0130,API Gateway,Minor,Minor
+BUG_0131,API Gateway,Minor,Major
+BUG_0132,Auth,Critical,Critical
+BUG_0133,Dashboard,Critical,Minor
+BUG_0134,Payment,Minor,Minor
+BUG_0135,API Gateway,Minor,Minor
+BUG_0136,Dashboard,Minor,Minor
+BUG_0137,Payment,Critical,Minor
+BUG_0138,Reports,Minor,Minor
+BUG_0139,Reports,Minor,Minor
+BUG_0140,Payment,Minor,Minor
+BUG_0141,Auth,Minor,Minor
+BUG_0142,Payment,Minor,Minor
+BUG_0143,Payment,Major,Major
+BUG_0144,Auth,Minor,Minor
+BUG_0145,Auth,Major,Major
+BUG_0146,Dashboard,Minor,Minor
+BUG_0147,Dashboard,Minor,Minor
+BUG_0148,Auth,Critical,Critical
+BUG_0149,Reports,Minor,Minor
+BUG_0150,Reports,Major,Major
